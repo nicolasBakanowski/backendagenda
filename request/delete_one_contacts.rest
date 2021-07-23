@@ -1,0 +1,1 @@
+DELETE   http://localhost:3001/contacts/60f9f6c35f6ed649cb04148f

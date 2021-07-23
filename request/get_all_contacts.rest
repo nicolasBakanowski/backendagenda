@@ -1,0 +1,4 @@
+GET http://localhost:3001/contacts/
+
+
+# trae los contactos de la bd mongo

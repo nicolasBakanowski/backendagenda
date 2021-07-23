@@ -1,0 +1,8 @@
+PATCH   http://localhost:3001/contacts/60fa072d98c0484b27291bbb
+Content-Type: application/json
+
+{
+        "phone": "00000000000000",
+        "name": "ESTE EL NUEVO ACUTAZLISAO",
+        "favourite": "false"
+}
